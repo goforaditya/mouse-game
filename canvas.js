@@ -31,9 +31,9 @@ window.addEventListener('resize', function() {
     init()
 })
 
-const RANGE = 50
+const RANGE = 150
 const maxRadius = 40
-const minRadius = 2
+const minRadius = 20
 
 function Circle(x,y,dx,dy,r,clr) {
     this.x = x
