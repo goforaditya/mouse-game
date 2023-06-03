@@ -85,7 +85,7 @@ function Circle(x,y,dx,dy,r,clr) {
 }
 
 
-const NUM_CIRCLES = 100
+const NUM_CIRCLES = 600
 var circleArray = []
 
 
